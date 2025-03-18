@@ -1,0 +1,1 @@
+This file just reminds you that you need to upload your google credential json file, and this is a good place to do it.
